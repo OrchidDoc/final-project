@@ -1,4 +1,4 @@
 final-project
 =============
 
-Final project
+Authors: Galen Abell and Tim Smith
